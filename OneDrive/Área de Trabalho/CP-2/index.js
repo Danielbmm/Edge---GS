@@ -1,6 +1,5 @@
 alert("Seja Bem Vindo")
 
-
 let botao = document.getElementById('botao')
 let form = document.getElementById('form')
 
