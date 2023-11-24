@@ -18,3 +18,10 @@ Esse sistema irá resolver os problemas direcionados à verificação da disponi
 
 Nosso sistema, além de garantir a existência ou não desse medicamento, confere se ele está armazenado na temperatura ideal, evitando assim perdas e mantendo as informações dos dados corretas e atualizadas.
 
+
+## Link wokwi
+https://wokwi.com/projects/382311227824082945
+
+## Link Youtube
+https://youtu.be/YnFRUWbTPfA
+
